@@ -1,3 +1,7 @@
+# Opinionated Middleman build
+
+This fork contains specific SASS/Haml layouts that provide a base to quickly prototype pages. 
+
 # Middleman
 
 Middleman makes developing stand-alone websites simple. The last few years has seen an explosion in the amount and variety of tools developers can use to build web applications. Ruby on Rails selects a handful of these tools:

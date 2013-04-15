@@ -21,7 +21,7 @@ gem "less", :require => false
 gem "stylus", :require => false
 
 platforms :ruby do
-  gem "therubyracer"
+  gem "therubyracer"#, "0.10.2"
   gem "redcarpet"
 end
 
